@@ -1,3 +1,4 @@
+# Description: This is a simple genetic algorithm that tries to maximize the number of 0's in a binary string.
 import random
 import matplotlib.pyplot as plt
 from alive_progress import alive_bar as ab
